@@ -1,4 +1,4 @@
-# Password Fortress 密碼堡壘 - 密碼管理網站應用
+# Password Fortress - 密碼管理網站應用
 
 網站連結：[Password Fortress](https://password-fortress.onrender.com)
 
