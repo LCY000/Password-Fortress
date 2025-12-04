@@ -12,14 +12,15 @@
 - **密碼存儲管理**：依網站名稱、使用者名稱來儲存密碼
 - **使用者認證**：提供註冊、登入與忘記密碼功能、並須經過兩步驟驗證才可對儲存的密碼進行更動
 
-![Uploading 截圖 2025-12-04 晚上11.51.30.png…]()
-
 ## 使用技術
 - **後端**：Python 3.x、Flask
 - **資料庫**：SQLite
 - **前端**：HTML、CSS、JavaScript、Bootstrap
 - **加密**：bcrypt
 - **部署**：Render.com
+
+## 網站畫面
+<img width="1480" height="812" alt="截圖 2025-12-04 晚上11 51 30" src="https://github.com/user-attachments/assets/5ff23ff0-3af7-4eaa-bc06-4c54e10c82c2" />
 
 ## 開發人員
 - EvanLo62
